@@ -1,0 +1,1 @@
+python Main.py --file_ALL ../ExampleData/AllData.xlsx --file_LIST ../ExampleData/data_LIST.xlsx --file_ORG ../ExampleData/data_ORG.xlsx --cross_validation 10 --feature_selection gini_index --feature_selection_param 12 --model_name AdaBoost --personality_trait O --interface ALL --product ALL
